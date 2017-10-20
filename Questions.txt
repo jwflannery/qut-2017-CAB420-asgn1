@@ -1,0 +1,7 @@
+	Task 1 
+- Does polyx work as it's supposed to?
+- Are we actually meant to change any of the side-code stuff?
+- When I set polyx to create a fifth-degree polynomial, it throws an error.
+
+	Task 2
+- 
